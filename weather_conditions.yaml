@@ -1,0 +1,9 @@
+conditions:
+  - airports:
+    - SBCG:
+      TAF: "to be defined"
+      METAR: "to be defined"
+    - SBSP:
+      TAF: "to be defined"
+      METAR: "to be defined"
+
