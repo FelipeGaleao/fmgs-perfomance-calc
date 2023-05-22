@@ -1,0 +1,8 @@
+- SBCG:
+  name: "Aeroporto Internacional Antonio Joao"
+  runways:
+  - runway: 16
+  ils: True
+  - runway: 24
+  ils: False
+
