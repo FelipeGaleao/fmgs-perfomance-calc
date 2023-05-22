@@ -1,0 +1,8 @@
+airports:
+  - SBCG:
+    - TWR:
+    main_frequency: 119.50
+    secondary_frequency: 120.20
+    - APP:
+    main_frequency: 119.50
+    secondary_frequency: 133.50
