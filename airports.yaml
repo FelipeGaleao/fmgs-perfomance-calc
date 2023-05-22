@@ -3,6 +3,8 @@
   runways:
   - runway: 16
   ils: True
+  activate: True
   - runway: 24
   ils: False
+  activate: True
 
